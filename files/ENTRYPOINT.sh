@@ -24,3 +24,5 @@ echo "* tar -xjvf linux-5.10.74.3-mininet-WSL2-x86.tar.bz2 -C linux-kernel"
 echo "* sudo cp -Rf linux-kernel/lib/modules/* /lib/modules/"
 echo "* sudo modprobe openvswitch"
 echo "*************************************************************************"
+
+bash
